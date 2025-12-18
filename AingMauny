@@ -1,3 +1,11 @@
-global.username = "LoxaszV4"
-global.password = "LoxasV4"
-global.konek = "6289506413460"
+{
+ "Filename": "PakTzy.js",
+ "Access": [
+   “6283865233188”
+   “6285211205630”
+ ],
+ "AccesBot": [
+   “6283865233188”
+   “6285211205630”
+ ]
+}
